@@ -1,0 +1,2375 @@
+﻿{
+    "languageCode":  "ja",
+    "name":  "Japonês",
+    "nativeName":  "日本語",
+    "version":  1,
+    "entries":  [
+                    {
+                        "text":  "こんにちは",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Olá",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Hello",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "おはようございます",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Bom dia",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Good morning",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "こんばんは",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Boa noite",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Good evening",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "おやすみなさい",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Boa noite",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Good night",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "さようなら",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Adeus",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Goodbye",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "またね",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Até mais",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "See you later",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "また明日",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Até amanhã",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "See you tomorrow",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "はい",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Sim",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Yes",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "いいえ",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Não",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "No",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "たぶん",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Talvez",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Maybe",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "もちろん",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Claro",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Of course",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "ありがとう",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Obrigado",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Thank you",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "ありがとうございます",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Muito obrigado",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Thank you very much",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "どういたしまして",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "De nada",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "You\u0027re welcome",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "お願いします",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Por favor",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Please",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "すみません",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Desculpa/Com licença",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Sorry/Excuse me",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "ごめんなさい",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Me desculpe",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I\u0027m sorry",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "愛してる",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Eu te amo",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I love you",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "お名前は何ですか?",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Qual o seu nome?",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "What is your name?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "私の名前は",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Meu nome é",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "My name is",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "お元気ですか?",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Como você está?",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "How are you?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "元気です",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Estou bem",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I\u0027m fine",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "はじめまして",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Prazer em conhecê-lo",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Nice to meet you",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "出身はどこですか?",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "De onde você é?",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Where are you from?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "どこに住んでいますか?",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Onde você mora?",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Where do you live?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "私は...に住んでいます",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Eu moro em...",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I live in...",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "英語を話せますか?",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Você fala inglês?",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Do you speak English?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "少しだけ話せます",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I can speak a little",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "もう一度言ってください",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Pode dizer de novo?",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Can you say that again?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "ゆっくり話してください",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Fale devagar, por favor",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "わかりません",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Não entendo",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I don\u0027t understand",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "わかります",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Entendo",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I understand",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "どういう意味ですか?",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "O que significa?",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "What does it mean?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "これはいくらですか?",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Quanto custa isto?",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "How much is this?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "高すぎます",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Muito caro",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Too expensive",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "お会計お願いします",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "A conta, por favor",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "The bill, please",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "お腹が空いた",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Estou com fome",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I\u0027m hungry",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "喉が渇いた",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Estou com sede",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I\u0027m thirsty",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "ベジタリアンです",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Sou vegetariano",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I\u0027m vegetarian",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "砂糖抜きで",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Sem açúcar",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "No sugar",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "水",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Água",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Water",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "コーヒー",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Café",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Coffee",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "お茶",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Chá",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Tea",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "ビール",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Cerveja",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Beer",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "ワイン",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Vinho",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Wine",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "パン",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Pão",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Bread",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "ご飯",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Arroz/Refeição",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Rice",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "肉",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Carne",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Meat",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "鶏肉",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Frango",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Chicken",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "魚",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Peixe",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Fish",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "いただきます",
+                        "isPhrase":  false,
+                        "translations":  [
+
+                                         ]
+                    },
+                    {
+                        "text":  "ごちそうさま",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Obrigado pela refeição",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Thanks for the meal",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "助けてください",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Pode me ajudar?",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Can you help me?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "助けて!",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Socorro!",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Help!",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "警察を呼んでください",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Ligue para a polícia",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Call the police",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "救急車を呼んでください",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Call an ambulance",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "道に迷いました",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Estou perdido",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I\u0027m lost",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "トイレはどこですか?",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Onde é o banheiro?",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Where is the bathroom?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "病院はどこですか?",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Where is the hospital?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "駅はどこですか?",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Onde é a estação?",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Where is the station?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "空港はどこですか?",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Where is the airport?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "予約しています",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Tenho reserva",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I have a reservation",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "チェックイン",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Check-in",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "チェックアウト",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Check-out",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Wi-Fiはありますか?",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Tem Wi-Fi?",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Is there Wi-Fi?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "パスワードは何ですか?",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Qual é a senha?",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "What\u0027s the password?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "何時ですか?",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Que horas são?",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "What time is it?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "今日は何曜日ですか?",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Que dia é hoje?",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "What day is it today?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "今日は暑いです",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Hoje está calor",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Today is hot",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "今日は寒いです",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Hoje está frio",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Today is cold",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "雨が降っています",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Está chovendo",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "It\u0027s raining",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "雪が降っています",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Está nevando",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "It\u0027s snowing",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "疲れました",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Estou cansado",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I\u0027m tired",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "眠いです",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Estou com sono",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I\u0027m sleepy",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "嬉しいです",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Estou feliz",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I\u0027m happy",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "悲しいです",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Estou triste",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I\u0027m sad",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "心配しないでください",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Não se preocupe",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Don\u0027t worry",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "大丈夫です",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Está tudo bem",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "It\u0027s okay",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "幸運を祈ります",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Boa sorte",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Good luck",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "気をつけて",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Cuidado",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Be careful",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "おめでとうございます",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Parabéns",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Congratulations",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "お誕生日おめでとう",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Feliz aniversário",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Happy birthday",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "メリークリスマス",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Feliz Natal",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Merry Christmas",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "明けましておめでとう",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Feliz Ano Novo",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Happy New Year",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "乾杯!",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Saúde!",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Cheers!",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "家",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Casa",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "House",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "アパート",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Apartamento",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Apartment",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "街",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Cidade",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "City",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "道",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Rua/Caminho",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Street/Road",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "国",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "País",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Country",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "家族",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Família",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Family",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "父",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Pai",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Father",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "母",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Mãe",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Mother",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "兄弟",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Irmão",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Brother",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "姉妹",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Irmã",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Sister",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "友達",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Amigo",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Friend",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "犬",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Cachorro",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Dog",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "猫",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Gato",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Cat",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "鳥",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Pássaro",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Bird",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "本",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Livro",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Book",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "電話",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Telefone",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Phone",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "コンピュータ",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Computador",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Computer",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "車",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Carro",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Car",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "バス",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Bus",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "電車",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Trem",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Train",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "飛行機",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Avião",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Airplane",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "自転車",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Bicicleta",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Bicycle",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "お金",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Dinheiro",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Money",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "カード",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Cartão",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Card",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "仕事",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Trabalho",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Work",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "会社",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Empresa",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Company",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "学校",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Escola",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "School",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "大学",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Universidade",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "University",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "先生",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Professor",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Teacher",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "学生",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Estudante",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Student",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "買う",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Comprar",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Buy",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "売る",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Vender",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Sell",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "払う",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Pagar",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Pay",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "探す",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Procurar",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Search",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "見つける",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Achar/Encontrar",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Find",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "失くす",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Perder",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Lose",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "勝つ",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Ganhar",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Win",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "見る",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Ver",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "See/Watch",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "聞く",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Ouvir",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Listen",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "話す",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Falar",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Speak",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "歩く",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Andar",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Walk",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "走る",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Correr",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Run",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "食べる",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Comer",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Eat",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "飲む",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Beber",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Drink",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "寝る",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Dormir",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Sleep",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "読む",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Ler",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Read",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "書く",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Escrever",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Write",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "学ぶ",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Aprender",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Learn",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "教える",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Ensinar",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Teach",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "働く",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Trabalhar",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Work",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "助ける",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Ajudar",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Help",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "待つ",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Esperar",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Wait",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "来る",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Vir",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Come",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "行く",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Ir",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Go",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "帰る",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Voltar/Ir para casa",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Go home/Return",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "始める",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Começar",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Start",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "止める",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Parar",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Stop",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "終わる",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Terminar",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Finish",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "開ける",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Abrir",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Open",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "閉じる",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Fechar",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Close",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "思う",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Pensar/Achar",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Think",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "知っています",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Eu sei/Saber",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Know",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "欲しい",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Querer",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Want",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "できる",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Poder/Conseguir",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Can",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "する",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Fazer",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Do",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "作る",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "pt",
+                                                 "translatedText":  "Fazer/Criar",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Make",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    }
+                ]
+}

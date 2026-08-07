@@ -1,0 +1,3336 @@
+﻿{
+    "languageCode":  "pt",
+    "name":  "Português",
+    "nativeName":  "Português",
+    "version":  1,
+    "entries":  [
+                    {
+                        "text":  "Olá",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Hello",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Hola",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Bonjour",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Obrigado",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Thank you",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Gracias",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Danke",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Por favor",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Please",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Por favor",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "S\u0027il vous plaît",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Bom dia",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Good morning",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Buenos días",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Guten Morgen",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Boa tarde",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Good afternoon",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Buenas tardes",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Boa noite",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Good night/Good evening",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Buenas noches",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Bonne nuit",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Adeus",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Goodbye",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Adiós",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "it",
+                                                 "translatedText":  "Arrivederci",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Tchau",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Bye",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Chao",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "it",
+                                                 "translatedText":  "Ciao",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Até logo",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "See you later",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Hasta luego",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Até amanhã",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "See you tomorrow",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Hasta mañana",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Sim",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Yes",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Sí",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Oui",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Ja",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ja",
+                                                 "translatedText":  "はい",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Não",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "No",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "No",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Non",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Nein",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ko",
+                                                 "translatedText":  "아니요",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Talvez",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Maybe",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Quizás",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Peut-être",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Claro",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Of course",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Claro",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "it",
+                                                 "translatedText":  "Certo",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Com certeza",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Definitely",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Seguro",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Desculpa",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Sorry",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Lo siento",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ja",
+                                                 "translatedText":  "すみません",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Me desculpe",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Forgive me",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Pardonnez-moi",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "De nada",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "You\u0027re welcome",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "De nada",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Bitte",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Com licença",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Excuse me",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Disculpe",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Excusez-moi",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Eu te amo",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I love you",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Te amo",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ko",
+                                                 "translatedText":  "사랑해요",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Eu gosto de você",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I like you",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Me gustas",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Quanto custa?",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "How much does it cost?",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "¿Cuánto cuesta?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Qual o seu nome?",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "What is your name?",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "¿Cómo te llamas?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Meu nome é",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "My name is",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Me llamo",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ja",
+                                                 "translatedText":  "私の名前は",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Como você está?",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "How are you?",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "¿Cómo estás?",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Comment ça va?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Eu estou bem",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I am fine",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Estoy bien",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Não estou bem",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I am not well",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Mir geht es nicht gut",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Tudo bem?",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Everything okay?",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "it",
+                                                 "translatedText":  "Tutto bene?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Prazer em conhecê-lo",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Nice to meet you",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Encantado",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Enchanté",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Igualmente",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Likewise",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Igualmente",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Onde fica?",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Where is it?",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Wo ist es?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Onde é o banheiro?",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Where is the bathroom?",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "¿Dónde está el baño?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Eu não entendo",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I don\u0027t understand",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "No entiendo",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ja",
+                                                 "translatedText":  "わかりません",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Eu entendo",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I understand",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "it",
+                                                 "translatedText":  "Capisco",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Você fala inglês?",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Do you speak English?",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "¿Hablas inglés?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Você fala português?",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Do you speak Portuguese?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Eu falo um pouco",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I speak a little",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Je parle un peu",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Fale mais devagar",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Speak slower",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Habla más despacio",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Pode repetir?",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Can you repeat?",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Können Sie wiederholen?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Como se diz ___ em inglês?",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "How do you say ___ in English?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "O que significa isso?",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "What does that mean?",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "¿Qué significa eso?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Eu gostaria de pedir",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I would like to order",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Je voudrais commander",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Eu quero café",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I want coffee",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "it",
+                                                 "translatedText":  "Voglio caffè",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Eu quero água",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I want water",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Ich möchte Wasser",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "A conta, por favor",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "The bill, please",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "La cuenta, por favor",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Tem mesa para dois?",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Do you have a table for two?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Eu sou vegetariano",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I am vegetarian",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Je suis végétarien",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Eu sou alérgico",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I am allergic",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Sem açúcar",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "No sugar",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Ohne Zucker",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Sem sal",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "No salt",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Sin sal",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Você pode me ajudar?",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Can you help me?",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "¿Puede ayudarme?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Eu preciso de ajuda",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I need help",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "it",
+                                                 "translatedText":  "Ho bisogno di aiuto",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Socorro!",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Help!",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "¡Socorro!",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Hilfe!",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Ligue para a polícia",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Call the police",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Appelez la police",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Estou perdido",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I am lost",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ja",
+                                                 "translatedText":  "道に迷いました",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Como chego ao aeroporto?",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "How do I get to the airport?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "A que horas sai o ônibus?",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "What time does the bus leave?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Quanto tempo demora?",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "How long does it take?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Que horas são?",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "What time is it?",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Quelle heure est-il?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Que dia é hoje?",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "What day is today?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Hoje é segunda-feira",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Today is Monday",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Hoje está calor",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Today is hot",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Hoy hace calor",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Hoje está frio",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Today is cold",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Heute ist kalt",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Vai chover",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "It will rain",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "it",
+                                                 "translatedText":  "Pioverà",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "O sol está brilhando",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "The sun is shining",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Estou com fome",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I\u0027m hungry",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Tengo hambre",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Estou com sede",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I\u0027m thirsty",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Ich habe Durst",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Estou cansado",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I\u0027m tired",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ja",
+                                                 "translatedText":  "疲れました",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Estou feliz",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I\u0027m happy",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ko",
+                                                 "translatedText":  "행복해요",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Estou triste",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I\u0027m sad",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Estoy triste",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Estou com sono",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I\u0027m sleepy",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "it",
+                                                 "translatedText":  "Ho sonno",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Vou dormir",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I\u0027ll sleep",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Je vais dormir",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Bons sonhos",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Sweet dreams",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Dulces sueños",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Bom apetite",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Enjoy your meal",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Bon appétit",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Guten Appetit",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Saúde!",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Cheers!",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Prost!",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ja",
+                                                 "translatedText":  "乾杯",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Parabéns!",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Congratulations!",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "¡Felicidades!",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Feliz aniversário",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Happy birthday",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ko",
+                                                 "translatedText":  "생일 축하해요",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Feliz Natal",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Merry Christmas",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Frohe Weihnachten",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Feliz Ano Novo",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Happy New Year",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Bonne année",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Boa sorte",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Good luck",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "it",
+                                                 "translatedText":  "Buona fortuna",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Cuidado",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Be careful",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Cuidado",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Não se preocupe",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Don\u0027t worry",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Keine Sorge",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Tudo vai dar certo",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Everything will be fine",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Pode me indicar um restaurante?",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Can you recommend a restaurant?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "O check-in é a que horas?",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "What time is check-in?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Eu tenho uma reserva",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I have a reservation",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Tengo una reserva",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Pode me dar a chave?",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Can you give me the key?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Wi-Fi",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Wi-Fi",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Wi-Fi",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Qual é a senha do Wi-Fi?",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "What\u0027s the Wi-Fi password?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Meu celular morreu",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "My phone died",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Mein Handy ist tot",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Onde tem um supermercado?",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Where is a supermarket?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Quanto custa o quarto por noite?",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "How much is the room per night?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Eu quero fazer check-out",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I want to check out",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Você aceita cartão?",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Do you accept credit cards?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Só aceita dinheiro?",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Cash only?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Qual é o seu telefone?",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "What is your phone number?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Me manda uma mensagem",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Send me a message",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Eu te ligo depois",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I\u0027ll call you later",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Nos vemos",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "See you",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Nos vemos",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Volto já",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Be right back",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "it",
+                                                 "translatedText":  "Torno subito",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Não sei",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I don\u0027t know",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Je ne sais pas",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Ich weiß nicht",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Eu sei",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I know",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ja",
+                                                 "translatedText":  "知っています",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Eu acho que sim",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I think so",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Creo que sí",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Eu acho que não",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I don\u0027t think so",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ko",
+                                                 "translatedText":  "아닌 것 같아요",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Espere um minuto",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Wait a minute",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Warten Sie einen Moment",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Chega de esperar",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Enough waiting",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Isso é incrível!",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "That\u0027s amazing!",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "it",
+                                                 "translatedText":  "È incredibile!",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Que legal!",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "How cool!",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "¡Qué guay!",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Nossa!",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Wow!",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Oh là là!",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Lembre-se de...",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Remember to...",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Eu esqueci",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I forgot",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ja",
+                                                 "translatedText":  "忘れました",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Eu lembro",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "I remember",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Você lembra?",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Do you remember?",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Água",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Water",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Agua",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Eau",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Wasser",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Comida",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Food",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Comida",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "it",
+                                                 "translatedText":  "Cibo",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Casa",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "House",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Casa",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Haus",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Apartamento",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Apartment",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Appartement",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Rua",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Street",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Straße",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Cidade",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "City",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Ville",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "País",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Country",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "it",
+                                                 "translatedText":  "Paese",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Mundo",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "World",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Mundo",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Trabalho",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Work",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Trabajo",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Travail",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Estudo",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Study",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Studium",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Escola",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "School",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Escuela",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "it",
+                                                 "translatedText":  "Scuola",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Universidade",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "University",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Université",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Livro",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Book",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Libro",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Buch",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ja",
+                                                 "translatedText":  "本",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Caderno",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Notebook",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "it",
+                                                 "translatedText":  "Quaderno",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Caneta",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Pen",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Bolígrafo",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Lápis",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Pencil",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Crayon",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Computador",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Computer",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Computer",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Telefone",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Phone",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Teléfono",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ja",
+                                                 "translatedText":  "電話",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "TV",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "TV",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Télévision",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Carro",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Car",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Coche",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Auto",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Ônibus",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Bus",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "it",
+                                                 "translatedText":  "Autobus",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Trem",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Train",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Zug",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Avião",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Airplane",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Avion",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Bicicleta",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Bicycle",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Bicicleta",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Cachorro",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Dog",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Perro",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ja",
+                                                 "translatedText":  "犬",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Gato",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Cat",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Chat",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Katze",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Pássaro",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Bird",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "it",
+                                                 "translatedText":  "Uccello",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Peixe",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Fish",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ko",
+                                                 "translatedText":  "물고기",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Família",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Family",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Familia",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Familie",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Pai",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Father",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Padre",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Mãe",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Mother",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ja",
+                                                 "translatedText":  "母",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Filho",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Son",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Hijo",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Filha",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Daughter",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "it",
+                                                 "translatedText":  "Figlia",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Irmão",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Brother",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Bruder",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Irmã",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Sister",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Sœur",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Amigo",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Friend",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Amigo",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ja",
+                                                 "translatedText":  "友達",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Colega",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Colleague",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ko",
+                                                 "translatedText":  "동료",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Dinheiro",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Money",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Dinero",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Argent",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Cartão",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Card",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Karte",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Chave",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Key",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "it",
+                                                 "translatedText":  "Chiave",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Janela",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Window",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Ventana",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Porta",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Door",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Porte",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Cama",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Bed",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Bett",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Mesa",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Table",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ja",
+                                                 "translatedText":  "机",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Cadeira",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Chair",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Silla",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Comprar",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Buy",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Comprar",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Acheter",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Vender",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Sell",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "it",
+                                                 "translatedText":  "Vendere",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Pagar",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Pay",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Bezahlen",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Ganhar",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Win/Earn",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ja",
+                                                 "translatedText":  "勝つ/稼ぐ",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Perder",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Lose",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Perder",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Achar",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Find",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ko",
+                                                 "translatedText":  "찾다",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Olhar",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Look",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Regarder",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Ouvir",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Listen/Listen to",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Hören",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Falar",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Speak/Talk",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "it",
+                                                 "translatedText":  "Parlare",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Andar",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Walk",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Caminar",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Correr",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Run",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ja",
+                                                 "translatedText":  "走る",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Comer",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Eat",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Manger",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Beber",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Drink",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Trinken",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Dormir",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Sleep",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ko",
+                                                 "translatedText":  "자다",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Ler",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Read",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "it",
+                                                 "translatedText":  "Leggere",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Escrever",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Write",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Escribir",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Aprender",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Learn",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ja",
+                                                 "translatedText":  "学ぶ",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Estudar",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Study",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Étudier",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Ensinar",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Teach",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Unterrichten",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Tentar",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Try",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ko",
+                                                 "translatedText":  "시도하다",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Conseguir",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Achieve/Manage to",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Conseguir",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Gostar",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Like",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "it",
+                                                 "translatedText":  "Piacere",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Odiar",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Hate",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Détester",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Querer",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Want",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Querer",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Precisar",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Need",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Brauchen",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Pensar",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Think",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ja",
+                                                 "translatedText":  "思う",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Saber",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Know",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ko",
+                                                 "translatedText":  "알다",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Fazer",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Do/Make",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "it",
+                                                 "translatedText":  "Fare",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Criar",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Create",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Créer",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Ajudar",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Help",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Ayudar",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Esperar",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Wait/Hope",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Warten",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Voltar",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Return/Go back",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ja",
+                                                 "translatedText":  "帰る",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Vir",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Come",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ko",
+                                                 "translatedText":  "오다",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Ir",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Go",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "it",
+                                                 "translatedText":  "Andare",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Começar",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Start/Begin",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Empezar",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Terminar",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Finish",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Finir",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Abrir",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Open",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Öffnen",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Fechar",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Close",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ja",
+                                                 "translatedText":  "閉じる",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Parar",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Stop",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ko",
+                                                 "translatedText":  "멈추다",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Continuar",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Continue",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "it",
+                                                 "translatedText":  "Continuare",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Seguir",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Follow",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Seguir",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Ver",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "See",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "fr",
+                                                 "translatedText":  "Voir",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Sentir",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Feel",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "de",
+                                                 "translatedText":  "Fühlen",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Acordar",
+                        "isPhrase":  false,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Wake up",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "es",
+                                                 "translatedText":  "Despertar",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    },
+                    {
+                        "text":  "Dever de casa",
+                        "isPhrase":  true,
+                        "translations":  [
+                                             {
+                                                 "targetLanguageCode":  "en",
+                                                 "translatedText":  "Homework",
+                                                 "explanation":  null
+                                             },
+                                             {
+                                                 "targetLanguageCode":  "ko",
+                                                 "translatedText":  "숙제",
+                                                 "explanation":  null
+                                             }
+                                         ]
+                    }
+                ]
+}
